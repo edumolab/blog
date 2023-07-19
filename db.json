@@ -3,7 +3,7 @@
     {
       "id": 1,
       "topic": "Swimming",
-      "questions": 
+      "questions": [
         {
           "part1": [
             {
@@ -52,7 +52,7 @@
             }
           ]
         }
-      
+      ]
     }
   ]
 }
