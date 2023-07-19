@@ -2,53 +2,73 @@
   "speaking": [
     {
       "id": 1,
-      "topic": "Swimming",
+      "topic": "Free Time & Friendship",
       "questions": [
         {
           "part1": [
             {
               "number": 1,
               "question": "What do you do in your free time?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio1.mp3?alt=media&token=df9da5e1-3e9c-4230-b820-72c7b7673190"
             },
             {
               "number": 2,
               "question": "Do you have a busy social life?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio2.mp3?alt=media&token=e83290b6-8fe4-4232-8d32-b94a1ef8248f"
             },
             {
               "number": 3,
               "question": "Has your life changed much in the last year?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio3.mp3?alt=media&token=abc13e5e-efd0-495e-ab29-26a15fcbd77b"
             },
             {
               "number": 4,
               "question": "What would you like to change about your lifestyle?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio4.mp3?alt=media&token=7851d452-fa70-4479-a589-99cc3c7cd119"
             },
             {
               "number": 5,
               "question": "Do you enjoy your current stage of life?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio5.mp3?alt=media&token=2190b38e-8307-462e-ba33-d31ce3e657b0"
             },
             {
               "number": 6,
               "question": "What do you dislike about your current stage of life?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart1%2Faudio6.mp3?alt=media&token=341ce130-51b9-4cb8-9c7b-d2ba2d6a0838"
             }
           ],
           "part2": [
             {
               "number": 7,
               "question": "<p><b>Describe a healthy lifestyle you know.</b></p><p>You should say:</p><ul><li>What is it?</li><li>How do you know it?</li><li>When do you do it?</li><li>And explain why you think it is healthy.</li></ul><br><textarea class='form-control' id='exampleFormControlTextarea1' rows='3' placeholder='Izoh yozish uchun'></textarea>",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart2%2Fpart2.mp3?alt=media&token=f790ce5c-cf65-494c-993b-c9a4a425a56d"
             }
           ],
           "part3": [
             {
               "number": 8,
               "question": "What are some ways that people can quickly make their lives better?",
-              "audio": ""
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart3%2Fpart3_1.mp3?alt=media&token=d9b46790-1aaf-4edb-a84a-e9a0f10962dd"
+            },
+             {
+              "number": 9,
+              "question": "What are some ways that people can quickly make their lives better?",
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart3%2Fpart3_2.mp3?alt=media&token=97464d30-1cc7-45b8-af1f-9e1d2add031e"
+            },
+             {
+              "number": 10,
+              "question": "What are some ways that people can quickly make their lives better?",
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart3%2Fpart3_3.mp3?alt=media&token=9b2b02d4-c545-4c5b-9a14-8496fecebc65"
+            },
+             {
+              "number": 11,
+              "question": "What are some ways that people can quickly make their lives better?",
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart3%2Fpart3_4.mp3?alt=media&token=31141e4d-eb94-4cb2-a914-a88f49653145"
+            },
+             {
+              "number": 12,
+              "question": "What are some ways that people can quickly make their lives better?",
+              "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest1%2Fpart3%2Fpart3_5.mp3?alt=media&token=03ed3cbe-fa61-4aad-8b9d-b42c13eaeb75"
             }
           ]
         }
