@@ -114,7 +114,7 @@
           "part2": [
             {
               "number": 7,
-              "question": "<p><b>Describe a friend who has played an important part in your life.</b></p><p>You should say:</p><ul><li>How you met this person</li><li> How long you have known him or her</li><li>The kind of things you do or have done together</li><li>And explain why this person has been important in your life</li></ul>",
+              "question": "<p><b>Describe a friend who has played an important part in your life.</b></p><p>You should say:</p><ul><li>How you met this person</li><li> How long you have known him or her</li><li>The kind of things you do or have done together</li><li>And explain why this person has been important in your life</li></ul><br><textarea class='form-control' id='exampleFormControlTextarea1' rows='3' placeholder='Izoh yozish uchun'></textarea>",
               "audio": "https://firebasestorage.googleapis.com/v0/b/exam-online-384406.appspot.com/o/Exam%2Ftest2%2Fpart2%2Fpart2.mp3?alt=media&token=5fb9f097-540d-4711-8650-6feffce8e616"
             }
           ],
