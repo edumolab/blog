@@ -1,11 +1,58 @@
 {
-"posts":[
-  {
-    "id":1,
-    "title":"Ingliz tilida zamon tushunchasi",
-    "body":"🔸Dunyodagi deyarli barcha tillarda zamon kategoriyasi mavjud. \r\n🔸Ingliz tilida zamon tushunchasi “tense” atamasi bilan ifodalanadi. \r\n🔸Macmillian English Dictionary for Advanced Learners lug'atida zamon quyidagicha izohlangan: \r\n\r\n▪️tense – a form of verb used for showing when something happens. For example, ‘I goʻ is the present tense and ‘I went’ is the past tense. \r\nℹ️Ya'ni, zamon- bu biror ish-harakatning qachon sodir boʻlganligini koʻrsatadigan fe’l shaklidir, Masalan “Men boraman” - bu hozirgi zamon, “Men bordim” esa oʻtgan zamondir.  \r\n💡Demak, zamon ish-harakatning qachon bajaril(ayot)ganligi nazarda tutadi. \r\n\r\n▶️Xulosa: Ish-harakat qachon bajarilayotganligi yoki bajarilganligiga qarab oʻzimizga kerak boʻlgan grammatik qoliplarni (zamonlar shakli) tanlaymiz. \r\n\r\n💡Ingliz tilida zamonlar 4 ta katta guruhga boʻlinib oʻrganiladi: \r\n1️⃣Present Tenses: (Hozirgi zamonlar guruhi):\r\n🔸Present Continuous Tense\r\n🔸Present Simple Tense\r\n🔸Present Perfect Tense\r\n🔸Present Perfect Continuous Tense\r\n\r\n2️⃣Past Tenses (Oʻtgan zamonlar guruhi):\r\n🔸Past Continuous Tense\r\n🔸Past Simple Tense\r\n🔸Past Perfect Tense\r\n🔸Past Perfect Continuous Tense\r\n\r\n3️⃣Future Tenses (Kelasi zamonlar guruhi):\r\n🔸Future Continuous Tense\r\n🔸Future Simple Tense\r\n🔸Future Perfect Tense\r\n🔸Future Perfect Continuous Tense\r\n\r\n4️⃣Future in the Past Tenses (Oʻtgan kelasi zamonlar guruhi)\r\n🔸Future Continuous in the Past Tense\r\n🔸Future Simple in the Past Tense\r\n🔸Future Perfect in the Past Tense\r\n🔸Future Perfect Continuous in the Past Tense\r\n\r\n💡E’tibor bergan boʻlsangiz, har bir zamon guruhidagi zamonlarda harakatning qay tarzda bajarilishini ifodalashda umumiylik mavjud: \r\n\r\n▪️continuous – davomiy zamonlarda ish-harakatning davomiyligi ta'kidlanadi.\r\n🔸I am working – Men ishlayapman. (Present continuous)\r\n🔸I was working -  Men ishlayotgan edim. (Past continuous)\r\n🔸I will be working - Men ishlayotgan bo'laman. (Future continuous)\r\n\r\n▪️simple- oddiy zamonlarda ish-harakatning sodir boʻlishi yoki boʻlganligi ta'kidlanadi.\r\n🔸I work every day– Men har kuni ishlayman. (Present simple)\r\n🔸I worked yesterday - Men kecha ishladim.(Past simple)\r\n🔸I will work tomorrow - Men ertaga ishlayman. (Future simple)\r\n\r\n▪️perfect  – tugallangan oddiy zamonlarda ish-harakatning tugallanganligi va natijasi mavjudligi ta'kidlanadi.\r\n🔸I have finished the book – Men kitobni tugatdim. (Present perfect)\r\n🔸I had finished the book - Men kitobni tugatgan edim.(Past perfect)\r\n🔸I will have finished the book - Men kitobni tugatgan bo'laman. (Future perfect)\r\n\r\n▪️perfect continuous – tugallangan davomiy zamonlarda ish-harakatning qancha muddat davom etganligi ta'kidlanadi.\r\n🔸I have been working for four hours – Men toʻrt soatdan beri ishlayapman.(Present perfect continuous)\r\n🔸I had been working for four hours – Men toʻrt soatdan beri ishlayotgan edim. (Past perfect continuous)\r\n🔸I will have been working for four hours – Men toʻrt soatdan beri ishlayayotgan bo'laman.(Future perfect continuous)",
-    "like": 0,
-    "img":"https://media.sproutsocial.com/uploads/2022/10/social-media-post-ideas-for-your-brand-in-2022.jpg"
-  }
+  "speaking": [
+    {
+      "id": 1,
+      "topic": "Swimming",
+      "questions": 
+        {
+          "part1": [
+            {
+              "number": 1,
+              "question": "What do you do in your free time?",
+              "audio": ""
+            },
+            {
+              "number": 2,
+              "question": "Do you have a busy social life?",
+              "audio": ""
+            },
+            {
+              "number": 3,
+              "question": "Has your life changed much in the last year?",
+              "audio": ""
+            },
+            {
+              "number": 4,
+              "question": "What would you like to change about your lifestyle?",
+              "audio": ""
+            },
+            {
+              "number": 5,
+              "question": "Do you enjoy your current stage of life?",
+              "audio": ""
+            },
+            {
+              "number": 6,
+              "question": "What do you dislike about your current stage of life?",
+              "audio": ""
+            }
+          ],
+          "part2": [
+            {
+              "number": 7,
+              "question": "<p><b>Describe a healthy lifestyle you know.</b></p><p>You should say:</p><ul><li>What is it?</li><li>How do you know it?</li><li>When do you do it?</li><li>And explain why you think it is healthy.</li></ul><br><textarea class='form-control' id='exampleFormControlTextarea1' rows='3' placeholder='Izoh yozish uchun'></textarea>",
+              "audio": ""
+            }
+          ],
+          "part3": [
+            {
+              "number": 8,
+              "question": "What are some ways that people can quickly make their lives better?",
+              "audio": ""
+            }
+          ]
+        }
+      
+    }
   ]
 }
